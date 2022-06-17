@@ -14,7 +14,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a undergraduate Computer Science, Studio Art Double Major and Economics Minor student attending University of Virginia. My concentration in Studio Art is Cinematogtaphy, and I am an Indie Filmmaker and Photographer.</p>
+                    <p>I am a undergraduate Computer Science, Studio Art Double Major and Economics Minor student attending the University of Virginia. My concentration in Studio Art is Cinematogtaphy, and I am an Indie Filmmaker and Photographer.</p>
                     <p>I have experiences in Software Engineering espeically with Django and React, Machine Learning concentrating in NLP and BERT, as well as Graphic Designing with Adobe Suites.  </p>
                     </div>
                 </div>
